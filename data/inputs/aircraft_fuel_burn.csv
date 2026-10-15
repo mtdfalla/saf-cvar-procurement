@@ -1,0 +1,9 @@
+aircraft_type,manufacturer,typical_seats,fuel_burn_kg_per_km_cruise,fuel_burn_kg_per_seat_per_km,emissions_class,sources
+B777-300ER,Boeing,396,7.0,0.0177,wide-body,ICAO Engine Emissions Databank; EUROCONTROL SET
+B777-200LR,Boeing,317,6.5,0.0205,wide-body,ICAO Engine Emissions Databank
+A380-800,Airbus,517,12.0,0.0232,wide-body,EUROCONTROL SET; Air Transport Action Group
+B787-9,Boeing,290,5.0,0.0172,wide-body,ICAO Engine Emissions Databank
+B787-10,Boeing,318,5.2,0.0163,wide-body,ICAO Engine Emissions Databank
+A350-900,Airbus,325,5.7,0.0175,wide-body,EUROCONTROL SET
+B737-800,Boeing,189,2.7,0.0143,narrow-body,ICAO Engine Emissions Databank
+A320neo,Airbus,180,2.4,0.0133,narrow-body,EUROCONTROL SET

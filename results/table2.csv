@@ -1,0 +1,9 @@
+Model,E[net cost] (EUR M),CVaR95 (EUR M),Forward (ML),E[spot] (ML),E[B&C] (ML),Compliance rate
+Risk-neutral stochastic (lam=0),186.71,212.50,114.0,198.4,29.7,1.000
+Mean-CVaR lam=0.25,186.72,212.40,113.7,198.5,29.9,1.000
+Mean-CVaR lam=0.5,186.75,212.31,112.6,198.9,30.6,1.000
+Mean-CVaR lam=1,186.86,212.17,113.3,197.1,31.8,1.000
+Mean-CVaR lam=2,187.06,212.00,109.7,197.5,35.0,1.000
+Deterministic EV plan (EEV),186.86,212.22,101.4,206.7,34.0,1.000
+No B&C (lam=0),188.50,219.06,156.4,185.5,0.0,1.000
+No B&C (lam=1),188.60,218.47,160.1,181.8,0.0,1.000

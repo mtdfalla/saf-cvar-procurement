@@ -1,0 +1,156 @@
+{
+ "certificate_price": {
+  "lam0_no_bc": {
+   "expected_M": 188.50279877307867,
+   "cvar95_M": 219.06499805140282,
+   "cvar95_exact_M": 220.82824512076564,
+   "fwd_ML": 156.37851136862827,
+   "spot_expected_ML": 185.54734492685535,
+   "bc_expected_ML": 0.0,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.184492623089919
+  },
+  "lam0_p0.60": {
+   "expected_M": 186.70787606663202,
+   "cvar95_M": 212.49813796806777,
+   "cvar95_exact_M": 213.89324103131844,
+   "fwd_ML": 114.03795046930779,
+   "spot_expected_ML": 198.42990043487296,
+   "bc_expected_ML": 29.67526859581939,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam0_p0.70": {
+   "expected_M": 187.91650268352885,
+   "cvar95_M": 218.53022140768553,
+   "cvar95_exact_M": 218.81971066107732,
+   "fwd_ML": 129.97150654963187,
+   "spot_expected_ML": 208.29105695030086,
+   "bc_expected_ML": 3.880556000067401,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam0_p0.80": {
+   "expected_M": 188.1407408238958,
+   "cvar95_M": 219.38803121336744,
+   "cvar95_exact_M": 219.69619343983317,
+   "fwd_ML": 136.98595616253652,
+   "spot_expected_ML": 203.76142986729977,
+   "bc_expected_ML": 1.3957334701638273,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam0_p0.90": {
+   "expected_M": 188.24420209311768,
+   "cvar95_M": 219.61664954570534,
+   "cvar95_exact_M": 219.94518349791176,
+   "fwd_ML": 142.818523981788,
+   "spot_expected_ML": 198.50351284822483,
+   "bc_expected_ML": 0.8210826699873132,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam0_p1.20": {
+   "expected_M": 188.4139969628561,
+   "cvar95_M": 218.61349949609226,
+   "cvar95_exact_M": 220.43494961631635,
+   "fwd_ML": 151.8263152121889,
+   "spot_expected_ML": 189.93956646186805,
+   "bc_expected_ML": 0.37723782594312005,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam1_no_bc": {
+   "expected_M": 188.60029747272418,
+   "cvar95_M": 218.4653254601188,
+   "cvar95_exact_M": 219.98280167815602,
+   "fwd_ML": 160.08275697706648,
+   "spot_expected_ML": 181.82540843488135,
+   "bc_expected_ML": 0.0,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.1853209736240307
+  },
+  "lam1_p0.60": {
+   "expected_M": 186.85854439175915,
+   "cvar95_M": 212.1730938669609,
+   "cvar95_exact_M": 213.5785397229248,
+   "fwd_ML": 113.2875975466122,
+   "spot_expected_ML": 197.09901745952445,
+   "bc_expected_ML": 31.75650449386345,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam1_p0.70": {
+   "expected_M": 188.00404328555962,
+   "cvar95_M": 218.3730291137768,
+   "cvar95_exact_M": 218.64061769409946,
+   "fwd_ML": 133.923686083312,
+   "spot_expected_ML": 204.342908090688,
+   "bc_expected_ML": 3.8765253260001242,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam1_p0.80": {
+   "expected_M": 188.23994073556733,
+   "cvar95_M": 218.29869397359366,
+   "cvar95_exact_M": 219.41511773826758,
+   "fwd_ML": 144.8652495255187,
+   "spot_expected_ML": 196.2076393376855,
+   "bc_expected_ML": 1.070230636795925,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam1_p0.90": {
+   "expected_M": 188.3517058692113,
+   "cvar95_M": 217.32523542219954,
+   "cvar95_exact_M": 219.62395884690937,
+   "fwd_ML": 149.96069717538802,
+   "spot_expected_ML": 191.4751816626395,
+   "bc_expected_ML": 0.7072406619725853,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  },
+  "lam1_p1.20": {
+   "expected_M": 188.51621958884752,
+   "cvar95_M": 218.34304620685108,
+   "cvar95_exact_M": 219.86977261208446,
+   "fwd_ML": 158.96444241223594,
+   "spot_expected_ML": 182.92168492047662,
+   "bc_expected_ML": 0.2569921672875685,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 2.185823640000001
+  }
+ },
+ "eu_ptl_penalty_on_ptl": {
+  "lam0": {
+   "expected_M": 191.44512948677354,
+   "cvar95_M": 216.20314231854329,
+   "cvar95_exact_M": 217.56407833718947,
+   "fwd_ML": 109.66630318930778,
+   "spot_expected_ML": 202.8015477148729,
+   "bc_expected_ML": 29.67526859581939,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 0.0
+  },
+  "lam1": {
+   "expected_M": 191.59579781190058,
+   "cvar95_M": 215.8780982174365,
+   "cvar95_exact_M": 217.24937702879606,
+   "fwd_ML": 108.9159502666122,
+   "spot_expected_ML": 201.47066473952444,
+   "bc_expected_ML": 31.75650449386345,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 0.0
+  },
+  "lam1_no_bc": {
+   "expected_M": 193.33415704097723,
+   "cvar95_M": 221.9692330141887,
+   "cvar95_exact_M": 223.42625816224805,
+   "fwd_ML": 154.9586259150916,
+   "spot_expected_ML": 186.93344998328928,
+   "bc_expected_ML": 0.0,
+   "mandate_compliance_rate": 1.0,
+   "eu_ptl_shortfall_ML": 0.0
+  }
+ }
+}

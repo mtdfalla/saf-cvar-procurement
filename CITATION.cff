@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "saf-cvar-procurement"
+abstract: "Code and data for 'Risk-Aware Sustainable Aviation Fuel Procurement under Regulatory Uncertainty: A Two-Stage Stochastic CVaR Model for Airline Networks'."
+version: 1.0.0
+date-released: 2026-10-15
+authors:
+  - family-names: Abdelmagid
+    given-names: Mohamed
+    orcid: "https://orcid.org/0009-0000-2053-4374"
+  - family-names: Quran
+    given-names: Abdullah
+  - family-names: Maalouf
+    given-names: Maher
+repository-code: "https://github.com/mtdfalla/saf-cvar-procurement"
+license: MIT
+keywords:
+  - sustainable aviation fuel
+  - stochastic programming
+  - conditional value-at-risk
+  - ReFuelEU Aviation
+  - book-and-claim
+  - airline fuel procurement
+preferred-citation:
+  type: conference-paper
+  title: "Risk-Aware Sustainable Aviation Fuel Procurement under Regulatory Uncertainty: A Two-Stage Stochastic CVaR Model for Airline Networks"
+  authors:
+    - family-names: Abdelmagid
+      given-names: Mohamed
+      orcid: "https://orcid.org/0009-0000-2053-4374"
+    - family-names: Quran
+      given-names: Abdullah
+    - family-names: Maalouf
+      given-names: Maher
+  collection-title: "Proceedings of the 53rd International Conference on Computers and Industrial Engineering (CIE53)"
+  conference:
+    name: "53rd International Conference on Computers and Industrial Engineering (CIE53)"
+    city: "Abu Dhabi"
+    country: AE
+    date-start: 2026-10-20
+    date-end: 2026-10-23
+  year: 2026

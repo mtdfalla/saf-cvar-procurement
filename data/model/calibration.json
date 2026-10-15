@@ -1,0 +1,31 @@
+{
+  "quarterly_sigma": {
+    "jet": 0.1678,
+    "eua": 0.1305,
+    "hefa": 0.075,
+    "ptl": 0.125,
+    "corsia": 0.2,
+    "avail": 0.15
+  },
+  "correlations": {
+    "jet_eua": 0.415,
+    "jet_hefa": 0.5,
+    "jet_ptl": 0.3,
+    "eua_corsia": 0.3,
+    "hefa_avail": -0.4,
+    "ptl_avail": -0.4
+  },
+  "availability": {
+    "accessible_share_of_eu_supply": 0.015,
+    "note": "Airline-accessible spot SAF as a share of central EU supply"
+  },
+  "history": {
+    "jet_base_eur_per_L": 0.5845,
+    "jet_post2010_quarterly_sigma": 0.1678,
+    "eua_base_eur_per_t": 75.07,
+    "eua_post2018_quarterly_sigma": 0.1305,
+    "rho_jet_eua_estimated": 0.415,
+    "n_quarters_jet": 65,
+    "n_quarters_eua": 33
+  }
+}
